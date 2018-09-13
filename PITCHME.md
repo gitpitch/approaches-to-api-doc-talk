@@ -1,4 +1,5 @@
 ---?image=presentation/title.png&size=contain%&position=left
+@transition[none]
 
 @snap[east headline text-white span-70]
 Approaches to REST API documentation
@@ -52,6 +53,8 @@ The different approaches are shown in the contexts of a spring boot 🍃 applica
 <h2 style="color: white;">@fa[terminal] SpringFox Demo </h2>
 
 ---
+@transition[none]
+
 @snap[north message-box]
 <h2>Introspection</h2>
 @snapend
@@ -98,6 +101,8 @@ The different approaches are shown in the contexts of a spring boot 🍃 applica
 <h2 style="color: white;">@fa[terminal] Spring REST Docs Demo </h2>
 
 ---
+@transition[none]
+
 @snap[north message-box]
 <h2>Test-driven</h2>
 @snapend
@@ -156,6 +161,7 @@ So why not **starting** with the [API specification](https://next.stoplight.io/m
 <h2 style="color: white;">@fa[terminal] Swagger Request Validator Demo </h2>
 
 ---
+@transition[none]
 
 @snap[north message-box]
 <h2>Design first</h2>
